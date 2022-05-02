@@ -8,4 +8,4 @@ The book I found most useful for this course was "Introduction to Quantum Mechan
 Darryl F Schroeter. Note that the chapter on Quantum Statistical Mechanics (which is a part of this course) 
 is present only in the second edition of this book.
 
-Also, check out [this link](https://drive.google.com/drive/folders/1quI2dKJalzc1rMePF13PiwwX6fTLyJ3M) for some additional resources such as Quizzes and Exam papers.
+Also, check out [this link](https://drive.google.com/drive/folders/1_WwhAHdQHxEolZKEVmi2i2IXFMRhSLnI) for some additional resources such as Quizzes and Exam papers.
