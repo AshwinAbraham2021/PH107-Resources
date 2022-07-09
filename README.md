@@ -1,6 +1,6 @@
 # PH 107 Resources
 
-These mainly comprise of the answers I wrote for the in-video Quizzes that were a part of our PH 107 course.
+These mainly comprise of the answers I wrote for the in-video Quizzes that were a part of our PH 107 (Quantum Physics and Application) course.
 
 Hopefully, they will be of use to you!
 
